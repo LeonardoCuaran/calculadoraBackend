@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jess": "^1.0.8-alpha.8"
+  },
+  "name": "calculadorabackend",
+  "version": "0.0.1",
+  "description": "Backend para el proyecto de calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "calculadora",
+    "API",
+    "backend"
+  ],
+  "author": "Leonardo Cuaran",
+  "license": "ISC"
+}
